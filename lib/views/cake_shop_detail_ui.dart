@@ -81,7 +81,7 @@ class _CakeShopDetailUiState extends State<CakeShopDetailUi> {
           _buildInfoSection(
             icon: '⏰',
             title: 'เวลาเปิดปิด',
-            subtitle: 'ทุกวัน 09.00-21.00 น.',
+            subtitle: 'ทุกวัน 10.00-21.00 น.',
           ),
           _buildInfoSection(
             icon: '💬',
